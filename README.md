@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi! I'm Caroline Almeida, Front-end Developer
+
 - I’m currently working on React
 - I’m currently learning styled-components
+
+"I've been changing my life through code"
 
 ##
 
