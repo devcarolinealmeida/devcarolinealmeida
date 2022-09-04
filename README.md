@@ -1,4 +1,4 @@
-### Hi! I'm Caroline Almeida, Front-end Developer
+### Hi! I'm Caroline Almeida, Front-end Developer 👋
 
 - I’m currently working on React
 - I’m currently learning styled-components
@@ -7,10 +7,10 @@
 
 ##
 
-<div align="center" >
+<div style="display: inline" align="center" >
     <a href="https://github.com/devcarolinealmeida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devcarolinealmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcarolinealmeida&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devcarolinealmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcarolinealmeida&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center" width ="160em" height="160em">
@@ -20,7 +20,7 @@
 </div>
   
   
-<div align="center"><br>
+<div align="center" style="display: inline_block"><br>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
        <img align="center" alt="Caroline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </a>
