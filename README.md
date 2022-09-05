@@ -21,20 +21,23 @@
   
   
 <div align="center" style="display: inline_block"><br>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
        <img align="center" alt="Caroline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img align="center" alt="Caroline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </a>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
       <img align="center" alt="Caroline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img align="center" alt="Caroline-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  </a>
   <a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
       <img align="center" alt="Caroline-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
       <img align="center" alt="Caroline-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"      </a>
+      
  </div>
   
   ##
