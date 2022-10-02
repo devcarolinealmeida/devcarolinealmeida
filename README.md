@@ -1,8 +1,5 @@
 ### Hi! I'm Caroline Almeida, Front-end Developer 👋
 
-- I’m currently working on Java-Script
-- I’m currently learning React
-
 "I've been changing my life through code"
 
 ##
