@@ -28,10 +28,13 @@
       <img align="center" alt="Caroline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img align="center" alt="Caroline-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  </a>
+      <img align="center" alt="Caroline-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  </a>
   <a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
       <img align="center" alt="Caroline-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     </a>
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+      <img align="center" alt="Caroline-Tail-wind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+     </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
       <img align="center" alt="Caroline-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"      </a>
       
